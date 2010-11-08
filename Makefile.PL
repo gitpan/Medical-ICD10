@@ -17,6 +17,8 @@ WriteMakefile(
         'Data::Dumper'    => 0,
         'Class::Accessor' => 0,
         'Graph'           => 0,
+        'File::Temp'      => 0,
+        'Test::Deep'      => 0
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Medical-ICD10-*' },

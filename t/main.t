@@ -5,8 +5,6 @@ use Test::More tests => 18;
 use File::Temp qw/ tempfile tempdir /;
 use Test::Deep;
 
-use Data::Dumper;
-
 ###################################################################
 
 my $tempdir = tempdir( CLEANUP => 1 );
