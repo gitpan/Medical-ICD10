@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Medical-ICD10
-version:            0.02
+version:            0.03
 abstract:           ICD10 Wrapper module
 author:
     - Spiros Denaxas <s.denaxas@gmail.com>

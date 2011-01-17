@@ -14,11 +14,11 @@ Medical::ICD10 - ICD10 Wrapper module
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
@@ -522,6 +522,10 @@ Spiros Denaxas, C<< <s.denaxas at gmail.com> >>
 Please report any bugs or feature requests to C<bug-medical-icd10 at rt.cpan.org>, or through
 the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Medical-ICD10>.  I will be notified, and then you'll
 automatically be notified of progress on your bug as I make changes.
+
+=head1 SOURCE CODE
+
+The source code can be found on github L<https://github.com/spiros/Medical-ICD10>
 
 =head1 SUPPORT
 
